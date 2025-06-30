@@ -1,1 +1,1 @@
-# simplekings
+# simpleking
